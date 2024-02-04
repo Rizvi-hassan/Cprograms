@@ -1,0 +1,2 @@
+Hello, this is a random text.
+I am going to copy this text to another text file

@@ -1,0 +1,6 @@
+1947;Indipendence Day;India got it`s Indipendence after a 200 year long rule by the british.
+1950;Republic Day;India oficially adopted its constitution.
+2003;Birthday;A legend named Rizvi was born
+2023;Start of Btech;Rizvi got admission in a college for btech.
+2024;Hisrory Record;Rizvi made a program which records history events in a text file.
+2004;mumbai attack;taj hotel attack

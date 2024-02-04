@@ -1,0 +1,6 @@
+This is a random text file.
+It contains some random text just to calculate its number of characters,
+number of lines and number of white spaces.
+I has been written only for educational purposes.
+The writer is not mentally unsound that he writes unnessary text anywhere anytime.
+Thank you for reading this useless text patiently.

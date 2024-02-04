@@ -1,0 +1,2 @@
+This is new text.
+Previous text has been deleted.
